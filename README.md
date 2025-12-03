@@ -17,7 +17,7 @@ Developed by [Think Again Tattoo Removal](https://thinkagaintattooremoval.com) -
 
 ```bash
 # Clone repository
-git clone https://github.com/thinkagaintattooremoval/tattoo-color-analyzer.git
+git clone [https://github.com/thinkagaintattooremoval/tattoo-color-analyzer.git](https://github.com/mebsites88s/tattoo-color-analyzer.git)
 cd tattoo-color-analyzer
 
 # Install dependencies
